@@ -1,0 +1,17 @@
+# Python & Flask
+__pycache__/
+*.py[cod]
+.venv/
+env/
+instance/
+*.db
+*.sqlite3
+
+# Environment & Secrets
+.env
+.flaskenv
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
