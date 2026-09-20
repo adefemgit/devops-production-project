@@ -1,5 +1,6 @@
 venv/
 .git/
+instance/
 .env
 application.log
 README.md
